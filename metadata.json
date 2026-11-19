@@ -1,0 +1,8 @@
+{
+  "name": "ÓPTICA PRO",
+  "description": "Sistema SaaS profissional para gestão completa de ópticas, lojas de óculos e clínicas de optometria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "appId": "ao.opticapro.app",
+  "appName": "ÓPTICA PRO",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-pre-6724ql35btvvnxosd3qbdw-400826704261.europe-west2.run.app",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0B1F3A"
+  }
+}
